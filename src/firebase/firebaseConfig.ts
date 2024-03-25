@@ -6,7 +6,7 @@ import { getFirestore } from 'firebase/firestore';
 
 export const firebaseConfig = {
   apiKey: "AIzaSyDoM4WpXo0lv3ZTmdANVARoipzjoXjmqQk",
-  authDomain: "martbottl.firebaseapp.com",
+  authDomain: "mart-bottle.vercel.app",
   projectId: "martbottl",
   storageBucket: "martbottl.appspot.com",
   messagingSenderId: "218842294417",
